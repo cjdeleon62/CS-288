@@ -1,0 +1,3 @@
+Homework 8 on solving a system of linear equations
+
+Write a C program to implement Jacobi iterative method for sovling a system of linear equations. Use the skeleton code. 
